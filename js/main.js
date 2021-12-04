@@ -367,3 +367,11 @@ function applyChange(folder, option, number) {
         target.innerHTML = `<img data-color='black' data-style='style0${number}' data-color2='white' src="images/clothing/tshirt/black-white-style0${number}.jpg"/>`
     }
 }
+
+setTimeout(() => {
+	const ad = document.querySelector('.eapps-link')
+	ad.style.display = 'none' ;
+}, 2000);
+
+
+

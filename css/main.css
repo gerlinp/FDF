@@ -3860,5 +3860,24 @@ body {
   display: none!important;
 }
 
-//checking if this updates
 
+
+#gallery-p {
+  font-size: 1.5rem !important;
+  font-weight: bold;
+}
+
+a.eapps-link {
+  display:none;
+}
+
+.contact-link a {
+  font-size: 2rem;
+  font-weight: bold;
+  color: white !important;
+}
+
+.fa-facebook,
+.fa-instagram:before {
+  color: #e879bb
+}
