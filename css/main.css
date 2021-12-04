@@ -3856,5 +3856,8 @@ body {
 		width: 100%;
 	}
 }
+.juicer-feed h1.referral a:after {
+  display: none!important;
+}
 
 
