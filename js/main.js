@@ -371,7 +371,7 @@ function applyChange(folder, option, number) {
 setTimeout(() => {
 	const ad = document.querySelector('.eapps-link')
 	ad.style.display = 'none' ;
-}, 2000);
+}, 3000);
 
 
 

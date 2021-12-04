@@ -3872,12 +3872,12 @@ a.eapps-link {
 }
 
 .contact-link a {
-  font-size: 2rem;
-  font-weight: bold;
+  font-size: 2rem !important;
+  font-weight: bold !important;
   color: white !important;
 }
 
 .fa-facebook,
 .fa-instagram:before {
-  color: #e879bb
+  color: #e879bb!important;
 }
